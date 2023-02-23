@@ -1,7 +1,6 @@
 ### Olá 👋
  
-- 🌱 Estudando JavaScript...
-- 😄 Pronouns: Ele/Dele
+- 🌱 Estudando JavaScript e PHP...
 
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorRego123)](https://github.com/anuraghazra/github-readme-stats)
  
